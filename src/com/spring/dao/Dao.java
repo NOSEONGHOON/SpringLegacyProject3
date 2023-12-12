@@ -14,7 +14,7 @@ public class Dao {
 		// TODO Auto-generated method stub
 		System.out.println("iss53");
 		
-		System.out.println("hello iss54");
+		System.out.println("hello master");
 	}
 
 }
