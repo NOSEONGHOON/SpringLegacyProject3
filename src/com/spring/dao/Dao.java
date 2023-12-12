@@ -2,6 +2,10 @@ package com.spring.dao;
 
 public class Dao {
 	
+	public static void world() {
+		System.out.println("hello nethod");
+	}
+	
 	public static void hello() {
 		System.out.println("hello nethod");
 	}
