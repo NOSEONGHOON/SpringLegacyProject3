@@ -7,7 +7,7 @@ public class Dao {
 	}
 	
 	public static void hello() {
-		System.out.println("hello nethod");
+		System.out.println(" haha hello nethod");
 	}
 
 	public static void main(String[] args) {
